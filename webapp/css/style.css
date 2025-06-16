@@ -1,0 +1,106 @@
+/* Enter your custom styles here */
+
+
+
+.f1{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.f2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f8f8;
+    padding: 5px;
+}
+
+.f3{
+    display: flex;
+    align-items: center;
+}
+
+#__box0{
+    margin-left: 10px;
+}
+#__label0-bdi{
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 4px;
+    color: #ff0000;
+}
+
+.f4{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.f5{
+    display: flex;
+    align-items: center;
+}
+
+#__button1{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+#__button0-inner , #__button1-inner{
+    border: none;
+    background-color: #f8f8f8;
+}
+
+#__content0{
+    width: 45px;
+    height: 40px;
+}
+
+#__content0-icon-image{
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+
+
+
+/* ********************************************************************************* */
+
+.f6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Aligns everything to the left */
+    width: 100%;
+    background-color: #fff;
+}
+
+.f7, .f8, .f9, .f10 {
+       display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        
+}
+
+.sapMImageContent{
+    width: 4em !important;
+}
+
+#container-saps.youtubepage---View1--_IDGenPanel1-header{
+
+    border-top: .0625rem solid #a8b3bd;
+}
+
+
+
+#container-saps.youtubepage---View1--_IDGenImageContent-icon-image{
+    width: 39px;
+    margin-bottom: 9px;
+}
+
+.lebelx{
+    align-items: center;
+}
+
+.labely{
+    color:black;
+}
